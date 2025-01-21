@@ -4,7 +4,7 @@ HOW TO COMPILE:
 For reference- I have been compiling everything using Windows Command Prompt.
 
 Before you begin compilation, please have an input file ready that has a
-simple mathematical expression written in it. I have included an input file called "inputme.txt"
+simple mathematical expression written in it. I have included an input file called "inputme.txt" I have also included the desired output of this input file.
 
 The simple mathematical lexical analyzer made with flex is named "jam1375Mathlex.l"
 

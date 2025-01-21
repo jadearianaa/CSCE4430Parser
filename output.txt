@@ -1,0 +1,9 @@
+57,integer
+*,operator
+2,integer
+-,operator
+(,lparenthesis
+3,integer
++,operator
+4,integer
+),rparenthesis
